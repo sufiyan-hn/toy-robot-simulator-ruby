@@ -29,3 +29,32 @@ def generate_string
 end
 
 
+def generate_sentences
+  var_22 = "name"
+  puts 'Enter the command to run'
+  puts "Enter the command to run the simulator 123:"
+end
+
+
+def my_method_21
+    puts "hello world 2"
+  unused_variable = "test"
+  wrongCamelcase = "test1"
+  return false
+end
+
+def my_method_22
+    puts "hello world 3"
+  unused_variable = "test"
+  wrongCamelcase = "test2"
+  return false
+end
+
+def my_method_23
+    puts "hello world 3"
+  unused_variable = "test"
+  wrongCamelcase = "test2"
+  return false
+end
+
+
